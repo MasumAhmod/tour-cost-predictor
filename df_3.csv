@@ -1,0 +1,32 @@
+Starting Point,Destination,Transport Type,Estimated Fare (BDT),Notes
+Sylhet ,Jaflong,Bus,150,"Local bus from Sylhet city, crowded during weekends"
+Sylhet ,Jaflong,CNG,1500,"Reserved CNG, price varies by season"
+Sylhet ,Ratargul Swamp Forest,Bus + Boat,220,"Bus to Goainghat, then boat entry"
+Sylhet ,Ratargul Swamp Forest,CNG,1200,"CNG to ghat, then boat extra"
+Sylhet ,Bichanakandi,Bus + Boat,300,"Bus to Hadarpar, then boat"
+Sylhet ,Bichanakandi,CNG,1200,Direct reserve to Hadarpar
+Sylhet ,Lalakhal,Bus,100,Bus to Sarighat
+Sylhet ,Lalakhal,CNG,1000,Direct reserve
+Sylhet ,Tamabil,Bus,130,Highway route towards border
+Sylhet ,Tamabil,CNG,1300,Direct trip
+Sylhet ,Hazrat Shah Jalal Mazar,Rickshaw/CNG,50,Within Sylhet city
+Sylhet ,Hazrat Shah Paran Mazar,CNG,150,Short distance from city
+Sylhet ,Utma Chora,CNG + Walk,1000,"Remote area, includes walking"
+Sylhet ,Sadha Pathor,Bus + Boat,280,"Bus to Bholaganj, then boat"
+Sylhet ,Sadha Pathor,CNG,1400,Direct reserve
+Sylhet ,Shapla Bil,Bus,80,"Local transport, seasonal water levels"
+Sylhet ,Shapla Bil,CNG,800,Short trip
+Sylhet ,Hakaluki Haor,Bus,200,Longer distance toward Moulovibazar side
+Sylhet ,Hakaluki Haor,CNG,2000,Full-day reserve usually required
+Sreemangal,Sreemangal Tea Garden Area,CNG/Rickshaw,300,Short local trips inside tea estates
+Sreemangal,Madhabkunda Lake,Bus,70,Bus toward Barlekha route
+Sreemangal,Madhabkunda Lake,CNG,1400,Reserved trip
+Sreemangal,Lawachara National Park,CNG,500,"Very close, popular route"
+Sreemangal,Lawachara National Park,Auto/Rickshaw,300,Quick local ride
+Sreemangal,Madhabkunda Waterfall,Bus,220,Same route as lake
+Sreemangal,Madhabkunda Waterfall,CNG,2000,Direct reserve
+Sreemangal,Ham Ham Waterfall,CNG + Trek,1500,"CNG to Rajkandi, then 2-3 hr trek"
+Sunamganj,Tanguar Haor,Boat (Engine),4000,Full-day boat reserve common
+Sunamganj,Tanguar Haor,Local Boat,1000,Shared/local arrangement possible
+Sunamganj,Shimul Bagan,Motorbike/CNG,500,"Seasonal attraction, short distance"
+Sunamganj,Shimul Bagan,Auto,300,Depends on season and crowd
